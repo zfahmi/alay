@@ -1,5 +1,5 @@
 #!/usr/bin/python2
-# Author : ./AdeMara01
+# Author : ./Zfahmi21
 # Team : Black Coders Anonymous Satanic Exploiter Team ( BCA - X666X )
 # Apa Liat Liat ? Mau Recode ? >_<
 # Recode Tidak Akan Membuat Anda Menjadi Pencipta Kode :3
@@ -38,7 +38,7 @@ try:
 /\__/ / |_) | (_| | | | | | | /\__/ / | | | | \__ \\
 \____/| .__/ \__,_|_| |_| |_| \____/|_| |_| |_|___/
       | |                                          
-      |_|  '''+W+'Creator : ./AdeMara01\n\t\tYT : AdeMara')
+      |_|  '''+W+'Creator : ./Teknisi Tidung\n\t\tYT : AdeMara')
 
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
