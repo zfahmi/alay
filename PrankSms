@@ -38,7 +38,7 @@ try:
 /\__/ / |_) | (_| | | | | | | /\__/ / | | | | \__ \\
 \____/| .__/ \__,_|_| |_| |_| \____/|_| |_| |_|___/
       | |                                          
-      |_|  '''+W+'Creator : ./Teknisi Tidung\n\t\tYT : AdeMara')
+      |_|  '''+W+'Creator : ./Teknisi Tidung\n\t\tYT : Teknisi Tidung')
 
 	def MapClub(Phone, Amount):
 		for _ in range(Amount):
